@@ -1,0 +1,10 @@
+{
+    "prefix": "Fig. ",
+    "order": "config",
+    "figures": {
+        "ANN": {
+            "path": ".gitbook/assets/elliot-m1-1.jpg",
+            "description": "Primera imagen"
+        }
+    }
+} 

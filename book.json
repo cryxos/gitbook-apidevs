@@ -1,0 +1,14 @@
+{
+    "plugins": [
+      "slides-integration",
+      "index-of-figures"
+    ],
+    "pluginsConfig": {
+        "index-of-figures": {
+            "path": "./figures.json"
+        }
+    }
+}
+ 
+    
+ 

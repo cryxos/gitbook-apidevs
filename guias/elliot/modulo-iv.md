@@ -1,7 +1,7 @@
 # Módulo IV
 
 ## Canalización
-
+{{ "ANN" | fig }}
 Elliott empleaba canales de tendencia paralela para determinar objetivos de ondas normales y facilitar indicios de posibles desarrollos y cambios de tendencias.
 
 <details>
