@@ -15,6 +15,7 @@ Esta guia fué desarrollada tomando como fuente principal los preceptos universa
 ### La Teoría de Elliott
 
 ![](../../.gitbook/assets/img.PNG)
+{{ "ANN" | fig }}
 
 “Ralph Nelson Elliott” desarrolló la teoría Elliott Wave en 1930 estudiando varios índices de mercados bursátiles, en especial el [<mark style="color:purple;">Dow Jones</mark>](https://es.wikipedia.org/wiki/%C3%8Dndice\_burs%C3%A1til\_Dow\_Jones) , estudiando un periodo de 75 años, descubrió que los mercados bursátiles no se movían de manera caótica. Los mercados accionarios se movían en ciclos repetitivos , en donde las emociones de los inversionistas eran causa de las influencias externas o sicología de los demás inversionistas en ese momento.
 
