@@ -2,9 +2,9 @@
 
 ### La Guía de Elliot
 
-![La teoría de las Ondas de Elliot 1938](../../.gitbook/assets/img.PNG)
+![La teoría de las Ondas de Elliot 1938](../../.gitbook/assets/elliot-m1-1.jpg)
 
-Esta guia fué desarrollada tomando como fuente principal los preceptos universales de <mark style="color:purple;">**Ralph Nelson Elliott**</mark>, dejados en su Monografia **"**<mark style="color:purple;">**The Wave Principle (1938)**</mark>**"**; asi como tambien se usará como referencias los nuevos estudios aportados por <mark style="color:purple;">**Robert Prechter y A.J. Frost**</mark>. Especialistas y estudiosos de las teorias de Elliott.
+Esta guía fué desarrollada tomando como fuente principal los preceptos universales de <mark style="color:purple;">**Ralph Nelson Elliott**</mark>, dejados en su Monografia **"**<mark style="color:purple;">**The Wave Principle (1938)**</mark>**"**; así como también se usará como referencias los nuevos estudios aportados por <mark style="color:purple;">**Robert Prechter y A.J. Frost**</mark>. Especialistas y estudiosos de las teorias de Elliott.
 
 **Bibliografía**
 
@@ -14,8 +14,7 @@ Esta guia fué desarrollada tomando como fuente principal los preceptos universa
 
 ### La Teoría de Elliott
 
-{{ "ANN" | fig }}
-
+![Ralph Nelson Elliott](../../.gitbook/assets/elliot-m1-0.jpg)
 
 “Ralph Nelson Elliott” desarrolló la teoría Elliott Wave en 1930 estudiando varios índices de mercados bursátiles, en especial el [<mark style="color:purple;">Dow Jones</mark>](https://es.wikipedia.org/wiki/%C3%8Dndice\_burs%C3%A1til\_Dow\_Jones) , estudiando un periodo de 75 años, descubrió que los mercados bursátiles no se movían de manera caótica. Los mercados accionarios se movían en ciclos repetitivos , en donde las emociones de los inversionistas eran causa de las influencias externas o sicología de los demás inversionistas en ese momento.
 
@@ -25,16 +24,15 @@ Este Comportamiento colectivo humano está atado a la [<mark style="color:purple
 
 ## La forma de las Ondas
 
-![](../../.gitbook/assets/img.PNG)
-{{ "BNN" | fig }}
+![Ondas de Impulso y su corrección](../../.gitbook/assets/elliot-m1-3.jpg)
 
 Hay dos modos de desarrollo de ondas: **impulso y corrección**. Las ondas de impulso tienen una estructura de cinco ondas, mientras que las ondas correctivas tienen una estructura de tres ondas o una variación de la misma.\
 El modo de motivación se emplea tanto en el patrón de cinco ondas de la como en el sus componentes de la misma dirección, es decir, las ondas 1, 3 y 5. Sus estructuras se denominan "Impulsos" porque empujan poderosamente el mercado. El modo correctivo es empleado por todas las interrupciones de contratendencia, Sus estructuras se denominan "correctivas" porque cada una aparece como una respuesta a la onda motora precedente, pero solo logra un retroceso parcial o "corrección" del progreso que logró. Por lo tanto, los dos modos son fundamentalmente diferentes, tanto en sus roles como en su construcción.
 
 ## Los Ciclos de las ondas
 
-![](../../.gitbook/assets/img.PNG)
-{{ "CNN" | fig }}
+![Ciclo completo de las Ondas de Elliott (Forma alcista).](../../.gitbook/assets/elliot-m1-8.jpg) ![Ciclo completo de las Ondas de Elliott (Forma bajista)](../../.gitbook/assets/elliot-m1-9.jpg) ![Ciclo de las Ondas de Elliott en grado mayor.](../../.gitbook/assets/elliot-m1-10.jpg)
+
 Un ciclo completo que consta de ocho ondas, entonces, se compone de dos fases distintas, la fase impulso de cinco ondas (también llamada "cinco", cuyas sub ondas se denotan por números, y la fase correctiva de tres ondas (también llamada " tres "), cuyas sub ondas se denotan con letras. Así como la onda 2 corrige la onda 1, la secuencia A, B, C corrige la secuencia 1, 2, 3, 4, 5. estos ciclos se forman tanto en tendencias alcistas, como en bajistas.
 
 **Construcción compuesta:**
@@ -43,7 +41,7 @@ Cuando finaliza un ciclo inicial de ocho ondas como se muestra en el ejemplo 1, 
 
 ## Diseño esencial
 
-![](../../.gitbook/assets/img.PNG)
+![Ciclo completo de las Ondas de Elliott (Forma alcista).](../../.gitbook/assets/elliot-m1-10.jpg)
 
 Ahora observe que dentro del patrón correctivo ilustrado como la onda **2** en el ejemplo de la derecha, las ondas (A) y (C), que apuntan hacia abajo, están compuestas por cinco ondas: 1, 2, 3, 4 y 5. De manera similar, la onda (B), que apunta hacia arriba, se compone de tres ondas: A, B y C. Esta construcción revela un punto crucial: las ondas de impulso no siempre apuntan hacia arriba y las ondas correctivas no siempre apuntan hacia abajo. El modo de una onda está determinado no por su dirección absoluta sino principalmente por su dirección relativa.
 
@@ -53,11 +51,11 @@ Las ondas de **impulso** poseen cinco ondas cuando se tiende en la misma direcci
 
 ## Conteo de las Ondas
 
-![](../../.gitbook/assets/img.PNG) ![](../../.gitbook/assets/elliot-m1-1.jpg) ![](../../.gitbook/assets/elliot-m1-3.jpg)
+![Etiquetado de Ondas según el Esquema de Elliot.](../../.gitbook/assets/elliot-m1-11.jpg) ![Esquema de etiquetado de Elliot.](../../.gitbook/assets/elliot-m1-12.jpg)
 
 Las ondas de cualquier tipo y en cualquier serie, pueden subdividirse y volver a subdividirse en ondas de grado inferior, o a la inversa, expandirse en ondas de grado superior.
 
-#### En la figura indicada vemos tres grados de onda: 
+#### En la figura indicada vemos tres grados de onda:
 
 * Ondas ((1)) – ((2))
 * Ondas (1) – (2) – (3) – (4) – (5) – (a) – (b) – (c)
@@ -66,4 +64,3 @@ Las ondas de cualquier tipo y en cualquier serie, pueden subdividirse y volver a
 El conteo y etiquetado de las Ondas permite al inversor proyectar posibles escenarios a través del análisis de las Ondas de Elliot; para la ejecución correcta de este método se recomienda unificar el empleo de colores siguiendo las <mark style="color:purple;">pautas estandarizadas</mark> de Elliot Wave.
 
 ##
-

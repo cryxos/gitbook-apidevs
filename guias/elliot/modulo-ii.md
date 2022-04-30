@@ -2,7 +2,7 @@
 
 ## Las Ondas motrices
 
-![](../../.gitbook/assets/img.PNG)
+![Ondas de impulso o Motive](../../.gitbook/assets/elliot-m2-0.jpg)
 
 Las ondas motrices se subdividen en cinco ondas y siempre se mueven en la misma dirección que la tendencia de un grado mayor. Son sencillas y relativamente fáciles de reconocer e interpretar.
 
@@ -12,7 +12,7 @@ Elliott descubrió además que, en términos de precios, la onda 3 es a menudo l
 
 ## Ondas de Impulso
 
-![](../../.gitbook/assets/img.PNG)
+![Ralph Nelson Elliott](<../../.gitbook/assets/elliot-m2-1 (1).jpg>)
 
 Las pautas de impulso se rigen por una serie de reglas esenciales, que tienen que ser cumplidas para que puedan considerarse ondas de impulso, ya que en caso contrario, pasarían a ser consideradas ondas correctivas.
 
@@ -26,7 +26,7 @@ Las pautas de impulso se rigen por una serie de reglas esenciales, que tienen qu
 
 ## Reglas Elementales
 
-![](../../.gitbook/assets/img.PNG)
+![Regla 1](../../.gitbook/assets/elliot-m2-3.jpg) ![Regla 2](../../.gitbook/assets/elliot-m2-4.jpg) ![Regla 3](../../.gitbook/assets/elliot-m2-5.jpg) ![Regla 4](../../.gitbook/assets/elliot-m2-6--.jpg) ![Regla 5](../../.gitbook/assets/elliot-m2-7.jpg) ![Regla 6](../../.gitbook/assets/elliot-m2-8.jpg)
 
 Son las condiciones básicas que debe cumplir una pauta para considerarla de impulso. Si una sola de estas condiciones es incumplida, no es necesario realizar el paso siguiente, la pauta no será impulsiva y automáticamente asumiremos que se trata de una pauta correctiva.
 
@@ -37,6 +37,8 @@ Estas reglas están presentes en las pautas de impulso, no estándolo en las pau
 Regla 1, Regla 2, Regla 3, Regla 4, Regla 5, Regla 6
 
 ## Las Extensiones
+
+![Ondas 3 extendida dentro de la 3 extendida.](../../.gitbook/assets/elliot-m2-10.jpg)
 
 Por definición una extensión ocurre en una onda impulsiva, donde las ondas1, 3 o 5 se pueden extender, siendo mucho más larga que las otras ondas. Es muy común que una de estas ondas se extienda, normalmente es la tercera onda. Las otras dos ondas entonces tienden a igualarse entre si.
 
@@ -51,6 +53,8 @@ Por definición una extensión ocurre en una onda impulsiva, donde las ondas1, 3
 
 ## Reglas de las extensiones
 
+![Extensiones](../../.gitbook/assets/elliot-m2-10.jpg)
+
 La regla de la extensión es un elemento esencial de una posible pauta de impulso (no existe extensión en una pauta correctiva).
 
 * Las extensiones se asocian exclusivamente a las ondas de impulso (1, 3, 5), por lo tanto, su aparición en una pauta nos informa que estamos ante una pauta de impulso.
@@ -62,9 +66,13 @@ La regla de la extensión es un elemento esencial de una posible pauta de impuls
 
 ## Otras extensiones
 
+![Extensión dentro de la extensión de la 3ra Onda.](../../.gitbook/assets/elliot-m2-12.jpg) ![Extensión dentro de las extensiones en las ondas 1 y 5.](../../.gitbook/assets/elliot-m2-13.jpg)
+
 Dentro de las extensiones es probable observar en impulsos muy prolongados, extensiones dentro de las extensiones, estas bien pueden ocurrir en las ondas 1,3 y 5. Cuanto aparecen este tipo de extensiones, es probable que durante el desarrollo del conteo al operador se le dificulte realizar el mismo, una señal importante que debe indicarle al operador que debe predisponerse a buscar este tipo de extensiones es el tamaño de la extensión de la onda, la cual debe ser superior al 1.681%.
 
 ## Ratios Fibonacci
+
+![La proyección Fb del 100% es el objetivo mas conservador.](../../.gitbook/assets/elliot-m2-14.jpg) ![La proyección Fb del 1.618% es el objetivo mas común de la onda 3.](../../.gitbook/assets/elliot-m2-15.jpg) ![La proyección Fb del 2.618% es el objetivo siguiente una vez es superada la proyección Fb 1.618% (EXTENDIDA).La proyección Fb del 2.618% es el objetivo siguiente una vez es superada la proyección Fb 1.618% (EXTENDIDA).](../../.gitbook/assets/elliot-m2-16.jpg) ![La proyección Fb del 4.236% es el objetivo siguiente una vez es superada la proyección Fb 2.618% (EXTENDIDA).](../../.gitbook/assets/elliot-m2-17.jpg)
 
 En principio las ondas suelen tener la misma proporción. En caso contrario, habrá que buscar entre ellas las proporciones de Fibonacci. Cuando una onda se extiende suele alcanzar la proporción 1,618, y a veces incluso 2,618, con respecto a las otras dos ondas.
 
@@ -75,6 +83,8 @@ En principio las ondas suelen tener la misma proporción. En caso contrario, hab
 * Las extensiones de la onda 3 suelen alcanzar proyecciones del 100%, 1.618%, 2.618%, 4.236% de la Onda 1 .
 
 ## Retrocesos y proyecciones
+
+![Proyección de la extensión basada en el retroceso.](../../.gitbook/assets/elliot-m2-18.jpg) ![Proyección de la extensión basada en el retroceso.](<../../.gitbook/assets/elliot-m2-19 (1).jpg>) ![Proyección de la extensión basada en el retroceso.](<../../.gitbook/assets/elliot-m2-20 (1).jpg>) ![Proyección de la extensión basada en el retroceso.](../../.gitbook/assets/elliot-m2-21.jpg)
 
 #### **Resumen: Retrocesos y Extensiones**
 
@@ -90,6 +100,8 @@ En principio las ondas suelen tener la misma proporción. En caso contrario, hab
 
 ## Alternancia
 
+![Regla de la alternancia.](<../../.gitbook/assets/elliot-m2-22 (1).jpg>)
+
 La regla de alternancia dice: Al comparar ondas del mismo grado, debe esperarse que sean diferentes, al menos en un aspecto de todos los posibles. Esto nos informa de lo que debemos esperar. Se deben esperar pautas alternantes en prácticamente todas las formaciones de onda.
 
 Si esta regla no se cumple, el grupo de ondas estudiado no podrá considerarse pauta de impulso, y por lo tanto será pauta correctiva. En una pauta de impulso la alternancia se da en las ondas 2 y 4, y se dará en al menos uno de los posibles tipos de alternancia que a continuación se indican:
@@ -101,6 +113,8 @@ Si esta regla no se cumple, el grupo de ondas estudiado no podrá considerarse p
 * Número de subondas.
 
 ## Reglas de la alternancia
+
+![Variación de precio de onda 2 diferente a variación de precio de onda 4.](../../.gitbook/assets/elliot-m2-23.jpg) ![Tiempo en formarse la onda 2 diferente al tiempo en formarse la onda 4.](<../../.gitbook/assets/elliot-m2-24 (1).jpg>) ![Porcentaje de retroceso de la onda 2 respecto a la onda 1, diferente al porcentaje de retroceso de la onda 4 respecto a la onda 3.](../../.gitbook/assets/elliot-m2-25.jpg) ![Alternancia entre ondas 2 y 4, en intensidad (porcentaje de retroceso).](../../.gitbook/assets/elliot-m2-26.jpg) ![Si en la onda 2 se da una pauta en zigzag, en la onda 4 se dará una pauta plana, y viceversa.](../../.gitbook/assets/elliot-m2-27.jpg) ![Número de divisiones que se den en la onda 2 será diferente al número de divisiones que se den en la onda 4.](../../.gitbook/assets/elliot-m2-28.jpg) ![Correcciones complejas.](../../.gitbook/assets/elliot-m2-29.jpg) ![Frecuentemente, si una corrección empieza con una simple a-b-c no subdividida para la onda A, hay que esperar una compleja a-b-c para la onda B. A la inversa es menos frecuente.](../../.gitbook/assets/elliot-m2-30.jpg)
 
 En una pauta de impulso la alternancia se da en las ondas 2 y 4, y se dará en al menos uno de los posibles tipos de alternancia que a continuación se indican:
 
