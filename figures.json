@@ -3,8 +3,16 @@
     "order": "config",
     "figures": {
         "ANN": {
-            "path": "../../.gitbook/assets/img.PNG",
+            "path": "/assets/elliot-m1-1.jpg",
             "description": "Primera imagen"
+        },
+        "BNN": {
+            "path": "/assets/elliot-m3-30.jpg",
+            "description": "Segunda imagen"
+        },
+        "CNN": {
+            "path": "/assets/elliot-m3-35.jpg",
+            "description": "Tercera imagen"
         }
     }
 } 

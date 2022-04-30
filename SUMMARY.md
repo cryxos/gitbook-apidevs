@@ -14,3 +14,4 @@
   * [Módulo II](guias/elliot/modulo-ii.md)
   * [Módulo III](guias/elliot/modulo-iii.md)
   * [Módulo IV](guias/elliot/modulo-iv.md)
+  * [Figures](guias/elliot/Figures.md)

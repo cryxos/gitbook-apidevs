@@ -14,8 +14,8 @@ Esta guia fué desarrollada tomando como fuente principal los preceptos universa
 
 ### La Teoría de Elliott
 
-![](../../.gitbook/assets/img.PNG)
 {{ "ANN" | fig }}
+
 
 “Ralph Nelson Elliott” desarrolló la teoría Elliott Wave en 1930 estudiando varios índices de mercados bursátiles, en especial el [<mark style="color:purple;">Dow Jones</mark>](https://es.wikipedia.org/wiki/%C3%8Dndice\_burs%C3%A1til\_Dow\_Jones) , estudiando un periodo de 75 años, descubrió que los mercados bursátiles no se movían de manera caótica. Los mercados accionarios se movían en ciclos repetitivos , en donde las emociones de los inversionistas eran causa de las influencias externas o sicología de los demás inversionistas en ese momento.
 
@@ -26,6 +26,7 @@ Este Comportamiento colectivo humano está atado a la [<mark style="color:purple
 ## La forma de las Ondas
 
 ![](../../.gitbook/assets/img.PNG)
+{{ "BNN" | fig }}
 
 Hay dos modos de desarrollo de ondas: **impulso y corrección**. Las ondas de impulso tienen una estructura de cinco ondas, mientras que las ondas correctivas tienen una estructura de tres ondas o una variación de la misma.\
 El modo de motivación se emplea tanto en el patrón de cinco ondas de la como en el sus componentes de la misma dirección, es decir, las ondas 1, 3 y 5. Sus estructuras se denominan "Impulsos" porque empujan poderosamente el mercado. El modo correctivo es empleado por todas las interrupciones de contratendencia, Sus estructuras se denominan "correctivas" porque cada una aparece como una respuesta a la onda motora precedente, pero solo logra un retroceso parcial o "corrección" del progreso que logró. Por lo tanto, los dos modos son fundamentalmente diferentes, tanto en sus roles como en su construcción.
@@ -33,7 +34,7 @@ El modo de motivación se emplea tanto en el patrón de cinco ondas de la como e
 ## Los Ciclos de las ondas
 
 ![](../../.gitbook/assets/img.PNG)
-
+{{ "CNN" | fig }}
 Un ciclo completo que consta de ocho ondas, entonces, se compone de dos fases distintas, la fase impulso de cinco ondas (también llamada "cinco", cuyas sub ondas se denotan por números, y la fase correctiva de tres ondas (también llamada " tres "), cuyas sub ondas se denotan con letras. Así como la onda 2 corrige la onda 1, la secuencia A, B, C corrige la secuencia 1, 2, 3, 4, 5. estos ciclos se forman tanto en tendencias alcistas, como en bajistas.
 
 **Construcción compuesta:**
